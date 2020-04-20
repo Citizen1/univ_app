@@ -1,11 +1,7 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
+This is practice app from Udemy course.
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 2.5.1., Rails 5.2.4.2.
 
 * System dependencies
 
